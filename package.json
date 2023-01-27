@@ -16,12 +16,6 @@
     "*.css",
     "*.scss"
   ],
-  "files": [
-    "dist",
-    "src",
-    "types/*.d.ts",
-    "rollup.config.js"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/buefy/buefy.git"
