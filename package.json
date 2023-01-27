@@ -19,7 +19,8 @@
   "files": [
     "dist",
     "src",
-    "types/*.d.ts"
+    "types/*.d.ts",
+    "rollup.config.js"
   ],
   "repository": {
     "type": "git",
